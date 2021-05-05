@@ -225,6 +225,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
+LESSONS
+We will be running through the following lesson during this course: https://swcarpentry.github.io/python-novice-gapminder/
 
 {% comment %}
 SCHEDULE
