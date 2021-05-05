@@ -29,7 +29,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 <h3>LESSONS MATERIAL</h3>
-We will be running through the following lesson during this course: https://swcarpentry.github.io/python-novice-gapminder/
+Python course material: <a href="https://swcarpentry.github.io/python-novice-gapminder/"></a>
+Bash course material: <a href={{site.swc_pages}}/shell-novice/reference ></a>
+Git course material: <a href={{site.swc_pages}}/git-novice/reference ></a>
 
 <h3>If you would like to be notified of later workshops, please complete this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu">Interested in programming classes</a>.</h3>
 <br><br>
