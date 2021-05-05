@@ -28,6 +28,9 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<h3>LESSONS MATERIAL</h3>
+We will be running through the following lesson during this course: https://swcarpentry.github.io/python-novice-gapminder/
+
 <h3>If you would like to be notified of later workshops, please complete this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu">Interested in programming classes</a>.</h3>
 <br><br>
 
@@ -225,8 +228,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
-LESSONS
-We will be running through the following lesson during this course: https://swcarpentry.github.io/python-novice-gapminder/
 
 {% comment %}
 SCHEDULE
