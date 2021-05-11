@@ -32,7 +32,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 We will spend the first two days learning python, then on the third day we can choose if we would like to continue with python or learn bash/git. Below is the learning material for python, bash and git for your reference. <br />
 <b>Python</b> <a href="https://swcarpentry.github.io/python-novice-gapminder/"> course material </a> <br />
 <b>Bash</b> <a href="https://swcarpentry.github.io/shell-novice/"> course material </a> and <a href="https://swcarpentry.github.io/shell-novice/reference">glossary</a> <br />
-<b>Git</b> <a href="https://swcarpentry.github.io/git-novice/"> course material </a> and <a href="https://swcarpentry.github.io/git-novice/reference">glossary</a> <br />
+<b>Git</b> <a href="https://gu-eresearch.github.io/git/"> course material </a> and <a href="https://swcarpentry.github.io/git-novice/reference">glossary</a> <br />
 
 <h3>If you would like to be notified of later workshops, please complete this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu">Interested in programming classes</a>.</h3>
 <br><br>
