@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Introduction to Python <br><br>Griffith University<br> Gold Coast Campus"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Griffith University, Gold Coast Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Introduction to Python <br><br>Griffith University<br> Gold Coast Campus, G34 1.05/1.06"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Griffith University, Gold Coast Campus, G34 1.05/1.06"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-27.552941"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -33,6 +33,7 @@ We will spend the first two days learning python, then on the third day we can c
 <b>Python</b> <a href="https://swcarpentry.github.io/python-novice-gapminder/"> course material </a> <br />
 <b>Bash</b> <a href="https://swcarpentry.github.io/shell-novice/"> course material </a> and <a href="https://swcarpentry.github.io/shell-novice/reference">glossary</a> <br />
 <b>Git</b> <a href="https://gu-eresearch.github.io/gitTutorial/"> course material </a> and <a href="https://swcarpentry.github.io/git-novice/reference">glossary</a> <br />
+<b>More Python examples</b> <a href='https://brettparker.github.io/TutorialDataAnalysis/'> course material</a> <br/>
 
 {% comment %}
 Check DC curriculum
